@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(173, 48, 90, 0.678);
+    margin: 0px;
+    padding: 0px;
+}
+
+#sidenav a {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 150px;
+    display: inline-block;
+}
+#sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 300px;
+    background-color: rgba(255, 123, 0, 0.719);
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    padding: 15px;
+    line-height: 50px;
+
+  }
+#stealie {
+    /* background-image: url(images/stealie.png); */
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+.main {
+    margin-left: 300px;
+    text-align: left;
+    padding: 0px 10px;
+}
