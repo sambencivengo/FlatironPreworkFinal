@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(253, 246, 246);
+    background-color: rgb(145, 0, 80);
     margin: 0px;
     padding: 0px;
     /* background-image: url(images/brooklyn.jpg); */
@@ -53,6 +53,7 @@ body {
 }
 .post{
     padding: 30px;
+    margin-top: 175px;
 
 }
 .post-container {
