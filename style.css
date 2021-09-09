@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(145, 0, 80);
+    background-color: rgb(72, 0, 187);
     margin: 0px;
     padding: 0px;
     /* background-image: url(images/brooklyn.jpg); */
@@ -39,27 +39,37 @@ body {
     float: left;
     left: 20px;
 }
+#about {
+    color: rgb(255, 123, 0);
+    background-color: rgb(72, 0, 187);
+    font-style: italic;
+
+}
 .info {
     padding: 20px;
+    
 }
 .main {
     /* background-color: rgb(255, 255, 255); */
+    margin-top: 175px;
+
     height: 100%;
-    margin-left: 300px;
-/* text-align: left; */
+    margin-left: 450px;
     position: absolute;
     color: black;
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 800px;
 }
 .post{
     padding: 30px;
-    margin-top: 175px;
+    /* margin-top: 175px; */
 
 }
 .post-container {
     font-size: 20px;
     line-height: 30px;
-    background-color: rgba(252, 249, 102, 0.534);
+    background-color: rgb(255, 220, 187);
+
 }
 .post-heading {
     font-style: italic;
@@ -68,4 +78,21 @@ body {
 }
 .post-container:nth-child(2) {
     background-color: rgba(238, 204, 93, 0.534);
+
+}
+.aboutmain {
+    /* background-color: rgb(255, 255, 255); */
+    margin-top: 100px;
+
+    height: 100%;
+    margin-left: 450px;
+    position: absolute;
+    color: black;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 800px;
+}
+#bike {
+    height: 80%;
+    /* margin: auto; */
+
 }
